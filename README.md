@@ -5,9 +5,9 @@
 - [x] Nextjs 13
 - [x] next-i18next
 - [x] tailwindcss
+- [x] Playwright 
 - [ ] MUI
 - [ ] Authen
-- [ ] Playwright 
 - [ ] Docker
 - [ ] Gitlab CI/CD
 
